@@ -1,0 +1,3 @@
+INDEX    NAME    ALA  
+0        INCR     1
+1        DECR     5

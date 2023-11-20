@@ -1,0 +1,7 @@
+INCR N1,N2,REG=CREG
+0   N1   #1
+1   N2   #2
+2   REG   #3
+DECR N1,N2
+0   N1   #1
+1   N2   #2
